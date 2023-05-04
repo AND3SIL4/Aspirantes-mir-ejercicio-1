@@ -13,5 +13,7 @@ git config --list (listar la configuracion antes creada)
 git init (Inicializar el repo en la carpeta)
 git add . (Añadir archivos al repo creado)
 git commit -m "Version inicial"
+gitt add . (Añadir ajustes adicionales)
+git commit -m "Agrega solución primer ejercicio"
 
 
